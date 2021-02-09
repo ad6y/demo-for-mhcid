@@ -1,2 +1,2 @@
-# demo-for-mhcid
-Demo for MHCID
+# demo-for-Westmont
+Demo for Westmont
